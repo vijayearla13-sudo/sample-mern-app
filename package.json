@@ -1,0 +1,25 @@
+{
+  "name": "sample-mern-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vijayearla13-sudo/sample-mern-app#readme",
+  "bugs": {
+    "url": "https://github.com/vijayearla13-sudo/sample-mern-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayearla13-sudo/sample-mern-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0",
+    "mongoose": "^9.10.1"
+  }
+}
