@@ -3,7 +3,7 @@
     height: 100%;
     background: rgb(7, 207, 207);
 }
-a{
+.header a{
     color:rgb(33, 79, 196);
     text-decoration: none;
     padding: 5px;
